@@ -1,4 +1,6 @@
 # YiiBackboneBoilerplate
+
+[![Join the chat at https://gitter.im/Codexmen/YiiBackboneBoilerplate](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Codexmen/YiiBackboneBoilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 We at [***Clevertech***](http://clevertech.biz) use this folder structure setup for our own projects when developing [BackboneJS](http://www.backbonejs.org) applications.
 
 ### Overview
